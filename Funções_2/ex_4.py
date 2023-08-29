@@ -16,4 +16,4 @@ def calcular_media(lista_numeros):
 
 notas = [10, 7, 3, 9]
 retorno = calcular_media(notas)
-print(retorno)
+print(f'A media das notas {notas} é {retorno}')
